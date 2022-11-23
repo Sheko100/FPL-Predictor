@@ -27,4 +27,10 @@ function League() {
     ],
   };
   this.result = {};
+
+  this.Club = function (name, tier) {
+    this.name = name;
+    this.tier = tier;
+    this.result = {};
+  };
 }
