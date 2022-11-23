@@ -26,4 +26,5 @@ function League() {
       [6, 3],
     ],
   };
+  this.result = {};
 }
